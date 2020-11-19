@@ -59,3 +59,17 @@ h1{
     background-color: rgb(146, 136, 120);
     color: rgb(247, 226, 189) ;
 }
+
+/* set background color, border color and text color for submit button */
+form>#btnsubmit{
+    background-color: rgb(146, 136, 120);
+    border-color:  rgb(146, 136, 120);
+    color:rgb(247, 226, 189);
+}
+
+/* set effects when hover at submit button */
+form>#btnsubmit:hover{
+    box-shadow: 2px 2px 2px rgb(105, 95, 78);
+    color:white;
+}
+
