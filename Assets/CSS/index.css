@@ -74,7 +74,11 @@ h4{
     font-weight: 200;
     margin-top:0;
     font-style: italic;
-    letter-spacing: 1;
+}
+
+/* used to remove the bullet point from unordered */
+ul>.exp{
+    list-style-type: none;
 }
 
 /* set background color and text color in the footer */
