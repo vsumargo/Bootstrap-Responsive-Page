@@ -28,19 +28,26 @@ The following image shows the three pages appearance:
 
 1. About Page
 
-![screenshot of web applications](./assets/images/screenshoot-index-page.png)
+![screenshot of About Page](Assets/images/screenshoot-about-page.png)
 
 2. Portfolio Page
 
+![screenshot of Portfolio Page](Assets/images/screenshoot-portfolio-page.png)
+
 3. Contact Page
+
+![screenshot of Contact Page](Assets/images/screenshoot-contact-page.png)
+
 
 The following links will take you to the source code in github repository and the deployed live page:
 
-* [About Me](https://github.com/vsumargo/Homework-Week-1)
+* [About Me](https://vsumargo.github.io/Bootstrap-Responsive-Page/)
 
-* [Portfolio](https://github.com/vsumargo/Homework-Week-1/blob/main/assets/css/style.css)
+* [Portfolio](https://vsumargo.github.io/Bootstrap-Responsive-Page/portfolio.html)
 
-* [Contact Me](https://vsumargo.github.io/Homework-Week-1/)
+* [Contact Me](https://vsumargo.github.io/Bootstrap-Responsive-Page/contact.html)
+
+* [Source Code](https://github.com/vsumargo/Bootstrap-Responsive-Page)
 
 ## Acknowledgements
 
