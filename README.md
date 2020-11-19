@@ -28,15 +28,15 @@ The following image shows the three pages appearance:
 
 1. About Page
 
-![screenshot of About Page](Assets/images/screenshoot-about-page.png)
+![screenshot of About Page](./Assets/Images/screenshoot-about-page.png)
 
 2. Portfolio Page
 
-![screenshot of Portfolio Page](Assets/images/screenshoot-portfolio-page.png)
+![screenshot of Portfolio Page](./Assets/Images/screenshoot-portfolio-page.png)
 
 3. Contact Page
 
-![screenshot of Contact Page](Assets/images/screenshoot-contact-page.png)
+![screenshot of Contact Page](./Assets/Images/screenshoot-contact-page.png)
 
 
 The following links will take you to the source code in github repository and the deployed live page:
